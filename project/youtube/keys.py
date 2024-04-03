@@ -1,0 +1,5 @@
+API_KEY_1 = 'AIzaSyBUqBuyzMGx4goUTBUHq6_nDDKwGdBc8ec' #WEBNOVA
+API_KEY_2 = 'AIzaSyDJ8bHUQpm5xpRHoquMs0U_pOQeMEzzXxM' #AKSHAJ
+API_KEY_3 = 'AIzaSyCI-6t8ePD4eCvZPM-nmh4Q339NRAZQCC4' #NOVA_STUDENT
+
+translate_key = "AIzaSyBUqBuyzMGx4goUTBUHq6_nDDKwGdBc8ec" #webnova
